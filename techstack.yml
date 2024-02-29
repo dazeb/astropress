@@ -1,0 +1,107 @@
+repo_name: dazeb/astropress
+report_id: e92615aadb4377c2296b3ceaf1680d56
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:27:04+00:00'
+requested_by: rebelchris
+provider: github
+branch: master
+detected_tools_count: 8
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/dazeb/astropress
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dazeb/astropress
+  detection_source: Repo Metadata
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/dazeb/astropress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Chris Bongers
+  last_updated_on: 2021-09-25 14:25:21.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/dazeb/astropress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Chris Bongers
+  last_updated_on: 2021-09-25 14:25:21.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dazeb/astropress
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/dazeb/astropress/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Chris Bongers
+  last_updated_on: 2021-09-25 14:25:21.000000000 Z
+- name: "@tailwindcss/typography"
+  description: A Tailwind CSS plugin for automatically styling plain HTML content
+    with beautiful typographic defaults
+  package_url: https://www.npmjs.com/@tailwindcss/typography
+  version: 0.4.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/dazeb/astropress/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Chris Bongers
+  last_updated_on: 2021-09-25 14:25:21.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 2.2.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/dazeb/astropress/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Chris Bongers
+  last_updated_on: 2021-09-25 14:25:21.000000000 Z
